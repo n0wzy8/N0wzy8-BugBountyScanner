@@ -10,7 +10,7 @@
 ---
 ## Screenshot
 
-![Scanner](Screenshots/main.png)
+![Scanner](Screenshot/main.png)
 ---
 ## 🚀 Features
 
