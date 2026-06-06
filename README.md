@@ -111,6 +111,14 @@ If this tool helped you land a bounty, consider supporting future development:
 | 🐦 RVN | `RVYsBqVSGxu4qCq2UCLdpmoGjkdMbzfh1H` |
 
 ---
+## Disclaimer
+
+This tool is intended for authorized security assessments, bug bounty programs, and security research.
+
+Only test systems you own or have explicit permission to assess.
+
+The author is not responsible for misuse or damage caused by this software.
+---
 
 <p align="center">
   Made with ❤️ by <strong>N0wzy8</strong>
