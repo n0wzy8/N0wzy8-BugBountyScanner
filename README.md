@@ -8,7 +8,10 @@
 > **Fast, multi-threaded reconnaissance and vulnerability scanner engineered for efficient bug bounty hunting.**
 
 ---
+## Screenshot
 
+![Scanner](screenshots/main.png)
+---
 ## 🚀 Features
 
 ### 🔍 Reconnaissance & Intelligence
